@@ -1,0 +1,19 @@
+{
+  "name": "week3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AustinNGUYEN-24/Week_3-JS.git"
+  },
+  "author": "Austin Nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AustinNGUYEN-24/Week_3-JS/issues"
+  },
+  "homepage": "https://github.com/AustinNGUYEN-24/Week_3-JS#readme",
+  "description": "my first node project"
+}
